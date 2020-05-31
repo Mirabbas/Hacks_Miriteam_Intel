@@ -17,4 +17,4 @@ Also this bot have some "fun" functions: Excursion and E-Library with text- and 
 
 ### Desctop version of ICQ New does not supports geolocation. Use mobile devices to test all functions
 
-Authors: [akiyoss](https://github.com/akiyoss-git), [Reowlin](https://github.com/Reowlin), [anastass11](https://github.com/anastasss11)
+Authors: [akiyoss](https://github.com/akiyoss-git), [Reowlin](https://github.com/Reowlin), [anastasss11](https://github.com/anastasss11)
